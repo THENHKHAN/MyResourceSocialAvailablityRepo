@@ -1,4 +1,4 @@
-# My Social online links
+# My online social  links
 * Resume
 * [Linkdin](https://www.linkedin.com/in/noorul-huda-khan99/)
 * [Leetcode](https://leetcode.com/u/nhkaizen/)
